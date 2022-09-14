@@ -1,4 +1,4 @@
-# book_my_show_clone_web_web
+# Book My Show Clone Web
 
 A new Flutter project.
 
